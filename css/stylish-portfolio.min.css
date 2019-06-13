@@ -30,8 +30,8 @@ color:#fff;background:rgba(52,58,64,.5);line-height:50px;z-index:999}.menu-toggl
 .menu-toggle:hover{background:#343a40}.service-icon{background-color:#fff;color:#1d809f;height:7rem;width:7rem;display:block;
 line-height:7.5rem;font-size:2.25rem;-webkit-box-shadow:0 3px 3px 0 rgba(0,0,0,.1);box-shadow:0 3px 3px 0 rgba(0,0,0,.1)}
 .callout{padding:15rem 0;background:-webkit-gradient(linear,left top,right top,from(rgba(255,255,255,.1))
-,to(rgba(255,255,255,.1))),url(../img/bg-callout.jpg);background:linear-gradient(90deg,rgba(255,255,255,.1) 0,rgba(255,255,255,.1) 100%)
-,url(../img/bg-callout.jpg);background-position:center center;background-repeat:no-repeat;background-size:cover}
+,to(rgba(255,255,255,.1))),url(../img/choice.jpg);background:linear-gradient(90deg,rgba(255,255,255,.1) 0,rgba(255,255,255,.1) 100%)
+,url(../img/choice.jpg);background-position:center center;background-repeat:no-repeat;background-size:cover}
 .callout h2{font-size:3.5rem;font-weight:700;display:block;max-width:30rem}.portfolio-item{display:block;position:relative;
 overflow:hidden;max-width:530px;margin:auto auto 1rem}.portfolio-item .caption{display:-webkit-box;display:-ms-flexbox;
 display:flex;height:100%;width:100%;background-color:rgba(33,37,41,.2);position:absolute;top:0;bottom:0;z-index:1}.portfolio-item .caption 
